@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cloc": "^1.98.0-cloc"
+  }
+}
